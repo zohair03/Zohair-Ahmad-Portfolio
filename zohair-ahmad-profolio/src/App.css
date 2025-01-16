@@ -23,9 +23,18 @@
 }
 
 .protrait {
-    height: 357px;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+    border-radius: 50%;
 }
 
+.protraitDiv {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 
 
