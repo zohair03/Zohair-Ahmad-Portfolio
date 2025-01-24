@@ -12,8 +12,4 @@ function Protrait(){
     );
 }
 
-
-
-
 export default Protrait;
-
